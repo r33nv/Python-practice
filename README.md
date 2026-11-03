@@ -5,7 +5,7 @@ One problem at a time. Fail, fix, repeat.
 |---|---|
 | 01_tidy.py | Turns a messy full name into `Last, First` |
 | 02_bill_splitter.py | Splits a bill plus tip between people |
-| 03_gamertagmaker.py | Gets username,tag and prints username_tag and default username_gg |
+| 03_GamerTagMaker.py | Gets username,tag and prints username_tag and default username_gg |
 
 ## What I've learned so far
 - Functions: `def`, parameters, `return`, default parameters, `main()`
